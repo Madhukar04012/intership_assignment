@@ -1,0 +1,5 @@
+Amit,85,A
+Priya,72,C
+Rohan,90,A
+Sneha,78,B
+Vikram,65,C
